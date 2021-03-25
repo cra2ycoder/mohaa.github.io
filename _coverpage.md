@@ -25,8 +25,9 @@
 </div>
 <!-- <hr class="hr-line"/> -->
 
-
-<button class="download-resume">Download Resume</button>
+<div class="button-wrapper">
+    <button class="download-resume">Download Resume</button>
+</div>
 
 <!-- background color -->
 
