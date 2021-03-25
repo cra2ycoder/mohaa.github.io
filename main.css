@@ -2,12 +2,14 @@
     padding-left: 30%;
 }
 
-.cover-main p {
-    /* color: white; */
+.name {
+    color: white !important;
+    font-size: 4rem !important;
 }
 
+
 .role {
-    color: rgb(17, 101, 176);
+    color: white;
     margin: 0;
 }
 
@@ -42,6 +44,7 @@
 
 .contact-details * {
     margin: 0 1rem;
+    color: #bbdefb !important;
 }
 
 
@@ -58,7 +61,7 @@
 
 .social-links {
     text-decoration: underline !important; 
-    color: blue !important;
+    color: #2196f3 !important;
     margin: 0 0.4rem; 
 }
 
@@ -125,7 +128,7 @@ section.cover p {
     border-radius: 1rem;
     border: 0;
     color: white;
-    background-color: cadetblue;
+    background-color: #5c6bc0;
     margin: 0.1rem;
     cursor: pointer;
 }
