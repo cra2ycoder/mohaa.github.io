@@ -43,15 +43,22 @@
 }
 
 .contact-details * {
-    margin: 0 1rem;
     color: #bbdefb !important;
 }
+
+.contact-details  svg {
+    margin-right: 0.4rem;
+}
+
+.contact-details > * {
+   margin: 0 0.6rem;
+}
+
 
 .contact-details p, .contact-details a {
     display: flex;
     align-items: center;
 }
-
 
 .panel {
     display:flex; 
@@ -59,11 +66,6 @@
     margin-top: 1rem;
     align-items: center;
     color: white;
-}
-
-.hr-line {
-    /* border-color: rgb(66, 52, 222);  */
-    /* margin-top:3rem; */
 }
 
 .social-links {
@@ -92,6 +94,13 @@
 
 .button-wrapper {
     margin-top: 2rem;
+}
+
+.pipeline {
+    width: 1px;
+    height: 20px;
+    background-color: white;
+    margin-left: 1rem;
 }
 
 section.cover p {
