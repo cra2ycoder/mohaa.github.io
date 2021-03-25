@@ -11,12 +11,17 @@
 
 <h1 style="margin:0;">Mohanraj Rangasamy</h1>
 
-
+<!-- <hr class="hr-line"/> -->
 <h2 class="role">Creative Manager & UI/UX Frontend Developer</h2>
+<!-- <hr class="hr-line"/> -->
 
 
+<p style="margin:2rem 0; color: #53a217;">Like to LEARN, Love to SHARE, Happy to CODE.</p>
 
-
+<div class="contact-details">
+    <p>Mobile: +91 770 829 629 5</p>
+    <a href="mailto:mohaa.r.6789@gmail.com">Email: mohaa.r.6789@gmail.com</a>
+</div>
 
 <div class="panel">
     <a class="social-links" href="#">@linkedin</a>
@@ -24,19 +29,12 @@
     <a class="social-links" href="#">@stackshare</a>
     <a class="social-links" href="#">@codesandbox</a>
 </div>
-<!-- <hr class="hr-line"/> -->
+
 
 <div class="button-wrapper">
     <button class="download-resume">Download Resume</button>
 </div>
 
-
-<p style="margin-top:2rem;">Like to LEARN, Love to SHARE, Happy to CODE.</p>
-
-<div class="contact-details">
-    <p>Mobile: +91 770 829 629 5</p>
-    <a href="mailto:mohaa.r.6789@gmail.com">Email: mohaa.r.6789@gmail.com</a>
-</div>
 
 <!-- background color -->
 

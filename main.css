@@ -2,12 +2,13 @@
     padding-left: 30%;
 }
 
-.cover-main {
+.cover-main p {
     /* color: white; */
 }
 
 .role {
     color: rgb(17, 101, 176);
+    margin: 0;
 }
 
 .logo {
@@ -44,7 +45,6 @@
 }
 
 
-
 .panel {
     display:flex; 
     justify-content: center; 
@@ -53,7 +53,7 @@
 
 .hr-line {
     /* border-color: rgb(66, 52, 222);  */
-    margin-top:3rem;
+    /* margin-top:3rem; */
 }
 
 .social-links {
@@ -69,8 +69,63 @@
     border: 0;
     color: white;
     background-color: cadetblue;
+    cursor: pointer;
 }
 
 .button-wrapper {
     margin-top: 2rem;
+}
+
+section.cover p {
+    margin: 0;
+}
+
+.details-card-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.detail-card {
+    border: 1px solid #ccc;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    flex: 1 1;
+    min-width: 200px;
+    /* border-radius: 10px; */
+    /* margin: 0.2rem; */
+    /* height: 100px; */
+    padding: 1rem;
+    align-items: center;
+    /* justify-content: center; */
+    justify-content: space-between;
+    align-content: space-between;
+}
+
+.detail-card h3 {
+    margin: 0;
+}
+
+.details-card-count {
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+.details-card-buttons {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.details-card-buttons button {
+    padding: 0.2rem 0.6rem;
+    font-family: inherit;
+    border-radius: 1rem;
+    border: 0;
+    color: white;
+    background-color: cadetblue;
+    margin: 0.1rem;
+    cursor: pointer;
 }
