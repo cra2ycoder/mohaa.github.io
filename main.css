@@ -1,0 +1,54 @@
+.cover-main, section.content {
+    padding-left: 30%;
+}
+
+.cover-main {
+    color: white;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.logo svg {
+    width: 100%;
+    height: 100%;
+}
+
+.profile-img {
+    background-image: url("./assets/mohaa.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 30%;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+
+.panel {
+    display:flex; 
+    justify-content: center; 
+    margin-top: 1rem;
+}
+
+.hr-line {
+    border-color: #fff; 
+    margin-top:3rem;
+}
+
+.social-links {
+    text-decoration: underline !important; 
+    color: #4c6075 !important;
+    margin: 0 0.4rem; 
+}
+
+.download-resume {
+    padding: 0.4rem 1rem;
+    font-family: inherit;
+    border-radius: 1rem;
+    border: 0;
+}
