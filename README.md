@@ -89,7 +89,7 @@
 
 # Design Tools
 
-> Software design tools that I have used for desktop/mobile/tablet web applications designs.
+> Software design tools that I have used for desktop/mobile/tablet web applications designs, poster, abstract designs and digital arts.
 
 ### Art
 
