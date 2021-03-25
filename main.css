@@ -3,7 +3,11 @@
 }
 
 .cover-main {
-    color: white;
+    /* color: white; */
+}
+
+.role {
+    color: rgb(17, 101, 176);
 }
 
 .logo {
@@ -29,6 +33,18 @@
     top: 0;
 }
 
+.contact-details {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.contact-details * {
+    margin: 0 1rem;
+}
+
+
+
 .panel {
     display:flex; 
     justify-content: center; 
@@ -36,13 +52,13 @@
 }
 
 .hr-line {
-    border-color: #fff; 
+    /* border-color: rgb(66, 52, 222);  */
     margin-top:3rem;
 }
 
 .social-links {
     text-decoration: underline !important; 
-    color: #4c6075 !important;
+    color: blue !important;
     margin: 0 0.4rem; 
 }
 
@@ -51,6 +67,8 @@
     font-family: inherit;
     border-radius: 1rem;
     border: 0;
+    color: white;
+    background-color: cadetblue;
 }
 
 .button-wrapper {
