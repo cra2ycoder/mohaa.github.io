@@ -84,3 +84,54 @@
         </div>
     </div>
 </div>
+
+<hr />
+
+# Design Tools
+
+> Software design tools that I have used for desktop/mobile/tablet web applications designs.
+
+### Art
+
+Adobe Photoshop CC, Autodesk Storybook
+
+### Design
+
+Adobe Photoshop CC, Adobe XD, & Sketch
+
+### Photo Edit
+
+Adobe Photoshop, Adobe Lightroom
+
+<hr />
+
+# Tech Stacks
+
+<hr />
+
+# Business Tools
+
+<hr />
+
+# Experience
+
+<hr />
+
+# Education
+
+<hr />
+
+# Awards
+
+<hr />
+
+# Own Libraries/Tools
+
+<hr />
+
+# Works
+
+<hr />
+
+<div id="design-tools">
+</div>
