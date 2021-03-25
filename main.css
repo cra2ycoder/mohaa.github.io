@@ -47,11 +47,18 @@
     color: #bbdefb !important;
 }
 
+.contact-details p, .contact-details a {
+    display: flex;
+    align-items: center;
+}
+
 
 .panel {
     display:flex; 
     justify-content: center; 
     margin-top: 1rem;
+    align-items: center;
+    color: white;
 }
 
 .hr-line {
@@ -63,6 +70,14 @@
     text-decoration: underline !important; 
     color: #2196f3 !important;
     margin: 0 0.4rem; 
+    width: 20px;
+    height: 20px;
+}
+
+.social-links svg {
+    width: 100%;
+    height: 100%;
+    fill: white;
 }
 
 .download-resume {
