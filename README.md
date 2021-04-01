@@ -593,3 +593,7 @@ others: **isomorphic-fetch, axios, next_i18next**
 
 <div id="design-tools">
 </div>
+
+<p>
+© cra2ycoder. All rights reserved. 2021
+</p>
