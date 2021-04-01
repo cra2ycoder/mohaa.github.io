@@ -166,7 +166,7 @@ section.cover p {
     /* max-width: 60px; */
     /* max-height: 132px; */
     /* min-width: %; */
-    margin: 0.3rem;
+    margin: 0.6rem;
     padding: 0.4rem;
     position: relative;
     text-align: center;
@@ -182,7 +182,7 @@ section.cover p {
 
 .tech-logo-img {
     max-width: 100px;
-    height: 60px;
+    height: 80px;
     margin-bottom: 0.4rem;
     display: flex;
     align-items: center;
