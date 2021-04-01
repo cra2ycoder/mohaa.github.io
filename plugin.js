@@ -19,7 +19,7 @@ function renderLogoCard(id, list) {
 
   const getLogoHTMLString = data => `<div class="tech-logo">
         <div class="tech-logo-img">
-          <img src="./assets/${data.url}" />
+          <img src="${data.url}" />
         </div>
         <div class="tech-info">${data.title}</div>
       </div>`
@@ -32,7 +32,7 @@ function renderExperienceDetails(id, list) {
 
   const getLogoHTMLString = data => `
     <div class="company-logo-img" id="${data.id}">
-      <img src="./assets/${data.url}" />
+      <img src="${data.url}" />
     </div>`
 
   const getBlockQuoteHTMLString = data => `
@@ -64,7 +64,7 @@ function renderWorksGallery(id, list) {
 
   const getImageHTMLString = url => `
   <figure>
-    <img src='./works/${url}' class='img-zoomable' />
+    <img src='${url}' class='img-zoomable' />
   </figure>
   `
 
