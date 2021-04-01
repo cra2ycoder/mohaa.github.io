@@ -19,7 +19,6 @@
             <button>languages</button>
             <button>frameworks</button>
             <button>libraries</button>
-            <button>servers</button>
             <button>unit testing</button>
             <button>docs</button>
             <button>dev tools</button>
@@ -36,7 +35,7 @@
         </div>
     </div>
     <div class="detail-card">
-        <h3>Experiences</h3>
+        <h3>Experience</h3>
         <div class="details-card-count">14+</div>
         <div class="details-card-buttons">
             <button>infosys</button>
@@ -143,6 +142,10 @@
         <img src="./assets/logo_ts.jpg" />
         <div class="tech-info">Typescript</div>
     </div>
+     <div class="tech-logo">
+        <img src="./assets/logo_nodejs.png" />
+        <div class="tech-info">NodeJS</div>
+    </div>
     <div class="tech-logo">
         <img src="./assets/logo_ftl.jpg" />
         <div class="tech-info">FTL</div>
@@ -243,53 +246,24 @@
     </div>
 </div>
 
-#### # Servers
-
-<div style="display:flex;">
-    <div class="tech-logo">
-        <img src="./assets/logo_ps.jpg" />
-        <div class="tech-info">Photoshop</div>
-    </div>
-    <div class="tech-logo">
-        <img src="./assets/logo_xd.png" />
-        <div class="tech-info">XD</div>
-    </div>
-    <div class="tech-logo">
-        <img src="./assets/logo_sketch.jpg" />
-        <div class="tech-info">Sketch</div>
-    </div>
-    <div class="tech-logo">
-        <img src="./assets/logo_autodesk.png" />
-        <div class="tech-info">Autodesk</div>
-    </div>
-    <div class="tech-logo">
-        <img src="./assets/logo_lr.png" />
-        <div class="tech-info">Lightroom</div>
-    </div>
-</div>
-
 #### # Unit Testing
 
 <div style="display:flex;">
     <div class="tech-logo">
-        <img src="./assets/logo_ps.jpg" />
-        <div class="tech-info">Photoshop</div>
+        <img src="./assets/logo_jest.png" />
+        <div class="tech-info">Jest</div>
     </div>
     <div class="tech-logo">
-        <img src="./assets/logo_xd.png" />
-        <div class="tech-info">XD</div>
+        <img src="./assets/logo_cypress.webp" />
+        <div class="tech-info">Cypress</div>
     </div>
     <div class="tech-logo">
-        <img src="./assets/logo_sketch.jpg" />
-        <div class="tech-info">Sketch</div>
+        <img src="./assets/logo_puppeteer.png" />
+        <div class="tech-info">Puppeteer</div>
     </div>
     <div class="tech-logo">
-        <img src="./assets/logo_autodesk.png" />
-        <div class="tech-info">Autodesk</div>
-    </div>
-    <div class="tech-logo">
-        <img src="./assets/logo_lr.png" />
-        <div class="tech-info">Lightroom</div>
+        <img src="./assets/logo_rtl.png" />
+        <div class="tech-info">React Testing Library</div>
     </div>
 </div>
 
@@ -297,49 +271,57 @@
 
 <div style="display:flex;">
     <div class="tech-logo">
-        <img src="./assets/logo_ps.jpg" />
-        <div class="tech-info">Photoshop</div>
+        <img src="./assets/logo_docsify.png" />
+        <div class="tech-info">Docsify</div>
     </div>
     <div class="tech-logo">
-        <img src="./assets/logo_xd.png" />
-        <div class="tech-info">XD</div>
+        <img src="./assets/logo_md.png" />
+        <div class="tech-info">Markdown</div>
     </div>
     <div class="tech-logo">
-        <img src="./assets/logo_sketch.jpg" />
-        <div class="tech-info">Sketch</div>
-    </div>
-    <div class="tech-logo">
-        <img src="./assets/logo_autodesk.png" />
-        <div class="tech-info">Autodesk</div>
-    </div>
-    <div class="tech-logo">
-        <img src="./assets/logo_lr.png" />
-        <div class="tech-info">Lightroom</div>
+        <img src="./assets/logo_jsdoc3.png" />
+        <div class="tech-info">JS Docs</div>
     </div>
 </div>
 
 #### # Dev Tools
 
-<div style="display:flex;">
+<div style="display:flex; flex-wrap: wrap;">
     <div class="tech-logo">
-        <img src="./assets/logo_ps.jpg" />
-        <div class="tech-info">Photoshop</div>
+        <img src="./assets/logo_git.png" />
+        <div class="tech-info">GIT</div>
     </div>
     <div class="tech-logo">
-        <img src="./assets/logo_xd.png" />
-        <div class="tech-info">XD</div>
+        <img src="./assets/logo_babel.png" />
+        <div class="tech-info">Babel</div>
     </div>
     <div class="tech-logo">
-        <img src="./assets/logo_sketch.jpg" />
-        <div class="tech-info">Sketch</div>
+        <img src="./assets/logo_prettier.jpg" />
+        <div class="tech-info">Prettier</div>
     </div>
     <div class="tech-logo">
-        <img src="./assets/logo_autodesk.png" />
-        <div class="tech-info">Autodesk</div>
+        <img src="./assets/logo_editorconfig.png" />
+        <div class="tech-info">Editor Config</div>
     </div>
     <div class="tech-logo">
-        <img src="./assets/logo_lr.png" />
-        <div class="tech-info">Lightroom</div>
+        <img src="./assets/logo_make.png" />
+        <div class="tech-info">Make</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_eslint.jpg" />
+        <div class="tech-info">ES Lint</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_tslint.png" />
+        <div class="tech-info">TS Lint</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_sonarlint.png" />
+        <div class="tech-info">Sonar Lint</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_storybook.png" />
+        <div class="tech-info">Storybook</div>
     </div>
 </div>
 
