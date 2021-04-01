@@ -157,7 +157,7 @@ section.cover p {
     cursor: pointer;
 }
 
-.tech-logo-wrapper {
+.logo-wrapper {
     display: flex;
     flex-wrap: wrap;
 }
