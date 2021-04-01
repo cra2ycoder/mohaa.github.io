@@ -64,6 +64,17 @@ others: **isomorphic-fetch, axios, next_i18next**
 
 # Experience
 
+> My career path from 2007 to till date
+
+|     | Company Name      | Role                           | Years |
+| --- | ----------------- | ------------------------------ | ----- |
+| #4  | Infosys           | Creative Manager & Sr.Dev Lead | 7m+   |
+| #3  | Skava an Infosys  | Creative Manager & Sr.Dev Lead | 11yrs |
+| #2  | Astute            | Flash Animator                 | 1yr   |
+| #1  | Cyber web service | Trainee Designer               | 3m    |
+
+<hr />
+
 <div class="tech-logo-img">
     <img src="./assets/logo_infy.jpg" />
 </div>
