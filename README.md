@@ -30,7 +30,6 @@
         <div class="details-card-count">8+</div>
         <div class="details-card-buttons">
             <button>IDE</button>
-            <button>dev ops</button>
             <button>utility</button>
         </div>
     </div>
@@ -378,6 +377,55 @@ others: **isomorphic-fetch, axios, next_i18next**
     <div class="tech-logo">
         <img src="./assets/logo_notepad.png" />
         <div class="tech-info">Notepad++</div>
+    </div>
+</div>
+
+#### # Utility/Others
+
+<div style="display:flex; flex-wrap: wrap;">
+    <div class="tech-logo">
+        <img src="./assets/logo_codesandbox.png" />
+        <div class="tech-info">Code sandbox</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_jira.jpg" />
+        <div class="tech-info">JIRA</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_confluence.jpg" />
+        <div class="tech-info">Confluence</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_trello.jpg" />
+        <div class="tech-info">Trello</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_gitlab.png" />
+        <div class="tech-info">GitLab</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_gdrive.jpg" />
+        <div class="tech-info">G Drive</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_bitbucket.jpg" />
+        <div class="tech-info">Bitbucket</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_tortoisegit.jpg" />
+        <div class="tech-info">Tortoise Git</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_tower.png" />
+        <div class="tech-info">Tower</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_github.png" />
+        <div class="tech-info">Git Hub</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_sourcetree.png" />
+        <div class="tech-info">Source Tree</div>
     </div>
 </div>
 

@@ -9,7 +9,7 @@
 <h1 class="name" style="margin:0;">Mohanraj Rangasamy</h1>
 
 <!-- <hr class="hr-line"/> -->
-<h2 class="role">Creative Manager & Sr. UI/UX Frontend Developer</h2>
+<h2 class="role">Creative Manager & Sr.Frontend Developer</h2>
 <!-- <hr class="hr-line"/> -->
 
 <p style="margin:2rem 0; color: #53a217;">Like to LEARN, Love to SHARE, Happy to CODE.</p>
