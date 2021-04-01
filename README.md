@@ -66,41 +66,18 @@ others: **isomorphic-fetch, axios, next_i18next**
 
 > My career path from 2007 to till date
 
-|     | Company Name      | Role                           | Years |
-| --- | ----------------- | ------------------------------ | ----- |
-| #4  | Infosys           | Creative Manager & Sr.Dev Lead | 7m+   |
-| #3  | Skava an Infosys  | Creative Manager & Sr.Dev Lead | 11yrs |
-| #2  | Astute            | Flash Animator                 | 1yr   |
-| #1  | Cyber web service | Trainee Designer               | 3m    |
+Overall Experience: **<ins>13+ years</ins>** | Total Companies: **<ins>4</ins>**
+
+|     | Company Name      | Role                           | Years    |
+| --- | ----------------- | ------------------------------ | -------- |
+| #4  | Infosys           | Creative Manager & Sr.Dev Lead | 7m+      |
+| #3  | Skava an Infosys  | Creative Manager & Sr.Dev Lead | 11yrs 5m |
+| #2  | Astute            | Flash Animator                 | 1yr      |
+| #1  | Cyber web service | Trainee Designer               | 3m       |
 
 <hr />
 
-<div class="tech-logo-img">
-    <img src="./assets/logo_infy.jpg" />
-</div>
-
-> Role: **Creative Manager and Sr. Dev Lead** | Duration: **From Aug 2020 to Till Date (7months+)**
-
-Responsibilities:
-
-- Leading a small development team (9 members) to create interactive and dynamic web applications for the business.
-- Technology Stack: React JS with Hooks, Typescript, HTML5, CSS3, JavaScript (ES6+), Next.js, Material Bootstrap, Express.js, i18next, Webpack, Storybook, Docsify, Lints, etc.,
-- Creating the Build system for web app development, CICD Integrations for Dev, UAT, PDN environments & configuration setups
-- Having Daily standup meeting with team, peer programming and live coding
-- Tech stacks training to the team
-- Building automation tools for reducing the dev efforts
-- Designs & prototype reviews
-- Gathering Software requirements, design and develop
-- Elicit requirements from BA team and executing in Agile sprints
-- Developing iterative functionality/prototypes based on requirements
-- Application development using MDBReact, ReactJS, State management with Hooks, Typescript and Next.Js
-- Identify design alternatives and conduct technical feasibility
-- Solving Technical Issues
-- Creating Flow diagrams, architecture diagrams, documentations etc.,
-- Driving team which includes from fresh college grads to experienced laterals
-- Building UI/UX components based on the Atomic Design Methodology.
-
-<hr />
+<div id="experiences"></div>
 
 # Education
 

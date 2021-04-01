@@ -114,7 +114,7 @@ section.cover p {
 }
 
 .detail-card {
-    border: 1px solid #ccc;
+    border: 1px solid #eee;
     display: flex;
     flex-wrap: nowrap;
     flex-direction: column;
@@ -163,10 +163,7 @@ section.cover p {
 }
 
 .tech-logo {
-    /* max-width: 60px; */
-    /* max-height: 132px; */
-    /* min-width: %; */
-    margin: 0.6rem;
+    margin: 0.3rem;
     padding: 0.4rem;
     position: relative;
     text-align: center;
@@ -174,6 +171,7 @@ section.cover p {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    align-items: center;
 }
 
 .tech-info {
@@ -182,8 +180,10 @@ section.cover p {
 
 .tech-logo-img {
     max-width: 100px;
-    height: 80px;
+    width: 90px;
+    height: 50px;
     margin-bottom: 0.4rem;
+    padding:0 1rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -191,4 +191,17 @@ section.cover p {
 
 img {
     max-height: 100%;
+}
+
+.company-logo-img {
+    max-width: 200px;
+}
+
+.company-logo-img#skava {
+    background-color: black;
+    padding: 0 1rem;
+}
+
+h1 span {
+    color: #5c6bc0 !important;
 }
