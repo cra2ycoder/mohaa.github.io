@@ -5,7 +5,7 @@
 <div class="details-card-wrapper">
     <div class="detail-card">
         <h3>Design Tools</h3>
-        <div class="details-card-count">4</div>
+        <div class="details-card-count">5+</div>
         <div class="details-card-buttons">
             <button>art</button>
             <button>design</button>
@@ -104,6 +104,10 @@
         <div class="tech-info">Sketch</div>
     </div>
     <div class="tech-logo">
+        <img src="./assets/logo_flash.jpg" />
+        <div class="tech-info">Flash</div>
+    </div>
+    <div class="tech-logo">
         <img src="./assets/logo_autodesk.png" />
         <div class="tech-info">Autodesk</div>
     </div>
@@ -173,6 +177,10 @@
     <div class="tech-logo">
         <img src="./assets/logo_yaml.png" />
         <div class="tech-info">YAML</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_as3.png" />
+        <div class="tech-info">AS3</div>
     </div>
 </div>
 
@@ -329,24 +337,20 @@
 
 <div style="display:flex;">
     <div class="tech-logo">
-        <img src="./assets/logo_ps.jpg" />
-        <div class="tech-info">Photoshop</div>
+        <img src="./assets/logo_yarn.jpg" />
+        <div class="tech-info">Yarn</div>
     </div>
     <div class="tech-logo">
-        <img src="./assets/logo_xd.png" />
-        <div class="tech-info">XD</div>
+        <img src="./assets/logo_npm.png" />
+        <div class="tech-info">NPM</div>
     </div>
     <div class="tech-logo">
-        <img src="./assets/logo_sketch.jpg" />
-        <div class="tech-info">Sketch</div>
+        <img src="./assets/logo_verdaccio.jpg" />
+        <div class="tech-info">Verdaccio</div>
     </div>
     <div class="tech-logo">
-        <img src="./assets/logo_autodesk.png" />
-        <div class="tech-info">Autodesk</div>
-    </div>
-    <div class="tech-logo">
-        <img src="./assets/logo_lr.png" />
-        <div class="tech-info">Lightroom</div>
+        <img src="./assets/logo_lerna.jpg" />
+        <div class="tech-info">Lerna</div>
     </div>
 </div>
 
