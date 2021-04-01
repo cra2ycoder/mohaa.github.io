@@ -254,6 +254,8 @@
     </div>
 </div>
 
+others: **isomorphic-fetch, axios, next_i18next**
+
 #### # Unit Testing
 
 <div style="display:flex;">
@@ -357,6 +359,27 @@
 <hr />
 
 # Business Tools
+
+#### # IDE
+
+<div style="display:flex;">
+    <div class="tech-logo">
+        <img src="./assets/logo_vs.png" />
+        <div class="tech-info">VS Code</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_sublime.jpg" />
+        <div class="tech-info">Sublime</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_eclipse.png" />
+        <div class="tech-info">Eclipse</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_notepad.png" />
+        <div class="tech-info">Notepad++</div>
+    </div>
+</div>
 
 <hr />
 
