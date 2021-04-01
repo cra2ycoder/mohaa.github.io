@@ -89,7 +89,7 @@
 
 > Software design tools that I have used for desktop/mobile/tablet web applications designs, poster, abstract designs and digital arts.
 
-<div style="display:flex;">
+<div class="tech-logo-wrapper">
     <div class="tech-logo">
         <img src="./assets/logo_ps.jpg" />
         <div class="tech-info">Photoshop</div>
@@ -124,7 +124,7 @@
 
 #### # Languages
 
-<div style="display:flex; flex-wrap:wrap;">
+<div class="tech-logo-wrapper">
     <div class="tech-logo">
         <img src="./assets/logo_html.png" />
         <div class="tech-info">HTML</div>
@@ -185,7 +185,7 @@
 
 #### # Frameworks
 
-<div style="display:flex;">
+<div class="tech-logo-wrapper">
     <div class="tech-logo">
         <img src="./assets/logo_cra.png" />
         <div class="tech-info">CRA</div>
@@ -210,7 +210,7 @@
 
 #### # Libraries
 
-<div style="display:flex; flex-wrap: wrap;">
+<div class="tech-logo-wrapper">
     <div class="tech-logo">
         <img src="./assets/logo_react.png" />
         <div class="tech-info">React</div>
@@ -257,7 +257,7 @@ others: **isomorphic-fetch, axios, next_i18next**
 
 #### # Unit Testing
 
-<div style="display:flex;">
+<div class="tech-logo-wrapper">
     <div class="tech-logo">
         <img src="./assets/logo_jest.png" />
         <div class="tech-info">Jest</div>
@@ -278,7 +278,7 @@ others: **isomorphic-fetch, axios, next_i18next**
 
 #### # Docs
 
-<div style="display:flex;">
+<div class="tech-logo-wrapper">
     <div class="tech-logo">
         <img src="./assets/logo_docsify.png" />
         <div class="tech-info">Docsify</div>
@@ -295,7 +295,7 @@ others: **isomorphic-fetch, axios, next_i18next**
 
 #### # Dev Tools
 
-<div style="display:flex; flex-wrap: wrap;">
+<div class="tech-logo-wrapper">
     <div class="tech-logo">
         <img src="./assets/logo_git.png" />
         <div class="tech-info">GIT</div>
@@ -336,7 +336,7 @@ others: **isomorphic-fetch, axios, next_i18next**
 
 #### # Package Managers
 
-<div style="display:flex;">
+<div class="tech-logo-wrapper">
     <div class="tech-logo">
         <img src="./assets/logo_yarn.jpg" />
         <div class="tech-info">Yarn</div>
@@ -361,7 +361,7 @@ others: **isomorphic-fetch, axios, next_i18next**
 
 #### # IDE
 
-<div style="display:flex;">
+<div class="tech-logo-wrapper">
     <div class="tech-logo">
         <img src="./assets/logo_vs.png" />
         <div class="tech-info">VS Code</div>
@@ -382,7 +382,7 @@ others: **isomorphic-fetch, axios, next_i18next**
 
 #### # Utility/Others
 
-<div style="display:flex; flex-wrap: wrap;">
+<div class="tech-logo-wrapper">
     <div class="tech-logo">
         <img src="./assets/logo_codesandbox.png" />
         <div class="tech-info">Code sandbox</div>
