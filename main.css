@@ -219,3 +219,26 @@ h1 span {
 .docsify-tabs:before {
   flex: inherit;
 }
+
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1rem;
+    /* background-color: #eee; */
+}
+
+.gallery figure {
+    display: inline-block;
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    width: auto;
+    height: 100px;
+    padding: 0.4rem;
+}
+
+main {
+    position: inherit;
+}

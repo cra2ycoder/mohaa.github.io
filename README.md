@@ -110,10 +110,15 @@ Overall Experience: **<ins>13+ years</ins>** | Total Companies: **<ins>4</ins>**
 
 # Works
 
-<hr />
+#### # Photoshop Works
 
-<div id="design-tools">
-</div>
+<div id="psworks" class="gallery"></div>
+
+#### # Photoshop Digital Arts
+
+<div id="arts" class="gallery"></div>
+
+<hr />
 
 <p>
 © cra2ycoder. All rights reserved. 2021

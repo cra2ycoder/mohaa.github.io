@@ -57,8 +57,18 @@ function renderExperienceDetails(id, list) {
     `
     })
     .join('')
+}
 
-  console.log(parent.innerHTML)
+function renderWorksGallery(id, list) {
+  const parent = document.getElementById(id)
+
+  const getImageHTMLString = url => `
+  <figure>
+    <img src='./works/${url}' class='img-zoomable' />
+  </figure>
+  `
+
+  parent.innerHTML = list.map(x => getImageHTMLString(x)).join('')
 }
 
 const plugins = [
@@ -76,8 +86,14 @@ const plugins = [
       renderLogoCard('packagemanagers', techStacks.packagemanagers)
       renderLogoCard('ide', businessTools.ide)
       renderLogoCard('utility', businessTools.utility)
-
       renderExperienceDetails('experiences', experience)
+
+      renderWorksGallery('psworks', works.ps)
+      renderWorksGallery('arts', works.arts)
+
+      new Zooming({
+        // options...
+      }).listen('.img-zoomable')
     })
   },
 ]
