@@ -163,7 +163,9 @@ section.cover p {
 }
 
 .tech-logo {
-    max-width: 90px;
+    max-width: 120px;
+    /* max-height: 132px; */
+    min-width: 15%;
     margin: 0.3rem;
     padding: 0.4rem;
     position: relative;
@@ -176,4 +178,16 @@ section.cover p {
 
 .tech-info {
     border-top: 1px solid #eee;
+}
+
+.tech-logo-img {
+    height: 90px;
+    margin-bottom: 0.4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    max-height: 100%;
 }
