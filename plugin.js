@@ -1,17 +1,17 @@
-function renderOverview() {
+function renderOverview(id, data) {
   const parent = document.getElementById('detail-card-wrapper')
 
-  const getCardHTMLString = data => {
+  const getCardHTMLString = x => {
     return `<div class="detail-card">
-      <h3>${data.title}</h3>
-      <div class="details-card-count">${data.count}</div>
+      <h3>${x.title}</h3>
+      <div class="details-card-count">${x.count}</div>
       <div class="details-card-buttons">
-        ${data.categories.map(x => `<button>${x}</button>`).join('')}
+        ${x.categories.map(y => `<button>${y}</button>`).join('')}
       </div>
     </div>`.trim()
   }
 
-  parent.innerHTML = overview.map(x => getCardHTMLString(x)).join('')
+  parent.innerHTML = data.map(x => getCardHTMLString(x)).join('')
 }
 
 function renderLogoCard(id, list) {
@@ -64,7 +64,7 @@ function renderExperienceDetails(id, list) {
 const plugins = [
   function (hook, vm) {
     hook.ready(function () {
-      renderOverview()
+      renderOverview('detail-card-wrapper', overview)
 
       renderLogoCard('designtools', designTools)
       renderLogoCard('languages', techStacks.languages)

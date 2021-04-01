@@ -6,7 +6,7 @@ var overview = [
   },
   {
     title: 'Tech Stacks',
-    count: '11+',
+    count: '20+',
     categories: [
       'languages',
       'frameworks',
@@ -15,22 +15,14 @@ var overview = [
       'docs',
       'dev tools',
       'pkg managers',
+      'IDE',
+      'Utility',
     ],
-  },
-  {
-    title: 'Business Tools',
-    count: '8+',
-    categories: ['IDE', 'Utility'],
   },
   {
     title: 'Experience',
     count: '13+',
     categories: ['infosys', 'skava', 'astute', 'cyber web'],
-  },
-  {
-    title: 'Education',
-    count: '3',
-    categories: ['SSLC', 'diploma', 'graduate'],
   },
   {
     title: 'Awards',
