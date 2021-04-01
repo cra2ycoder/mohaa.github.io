@@ -91,21 +91,234 @@
 
 > Software design tools that I have used for desktop/mobile/tablet web applications designs, poster, abstract designs and digital arts.
 
-### Art
-
-Adobe Photoshop CC, Autodesk Storybook
-
-### Design
-
-Adobe Photoshop CC, Adobe XD, & Sketch
-
-### Photo Edit
-
-Adobe Photoshop, Adobe Lightroom
+<div style="display:flex;">
+    <div class="tech-logo">
+        <img src="./assets/logo_ps.jpg" />
+        <div class="tech-info">Photoshop</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_xd.png" />
+        <div class="tech-info">XD</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_sketch.jpg" />
+        <div class="tech-info">Sketch</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_autodesk.png" />
+        <div class="tech-info">Autodesk</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_lr.png" />
+        <div class="tech-info">Lightroom</div>
+    </div>
+</div>
 
 <hr />
 
 # Tech Stacks
+
+> Tech stacks that I have worked/used for developing desktop/mobile/tablet web applications, libraries, build systems, tools etc.,
+
+#### # Languages
+
+<div style="display:flex;">
+    <div class="tech-logo">
+        <img src="./assets/logo_ps.jpg" />
+        <div class="tech-info">Photoshop</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_xd.png" />
+        <div class="tech-info">XD</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_sketch.jpg" />
+        <div class="tech-info">Sketch</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_autodesk.png" />
+        <div class="tech-info">Autodesk</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_lr.png" />
+        <div class="tech-info">Lightroom</div>
+    </div>
+</div>
+
+#### # Frameworks
+
+<div style="display:flex;">
+    <div class="tech-logo">
+        <img src="./assets/logo_ps.jpg" />
+        <div class="tech-info">Photoshop</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_xd.png" />
+        <div class="tech-info">XD</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_sketch.jpg" />
+        <div class="tech-info">Sketch</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_autodesk.png" />
+        <div class="tech-info">Autodesk</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_lr.png" />
+        <div class="tech-info">Lightroom</div>
+    </div>
+</div>
+
+#### # Libraries
+
+<div style="display:flex;">
+    <div class="tech-logo">
+        <img src="./assets/logo_ps.jpg" />
+        <div class="tech-info">Photoshop</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_xd.png" />
+        <div class="tech-info">XD</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_sketch.jpg" />
+        <div class="tech-info">Sketch</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_autodesk.png" />
+        <div class="tech-info">Autodesk</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_lr.png" />
+        <div class="tech-info">Lightroom</div>
+    </div>
+</div>
+
+#### # Servers
+
+<div style="display:flex;">
+    <div class="tech-logo">
+        <img src="./assets/logo_ps.jpg" />
+        <div class="tech-info">Photoshop</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_xd.png" />
+        <div class="tech-info">XD</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_sketch.jpg" />
+        <div class="tech-info">Sketch</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_autodesk.png" />
+        <div class="tech-info">Autodesk</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_lr.png" />
+        <div class="tech-info">Lightroom</div>
+    </div>
+</div>
+
+#### # Unit Testing
+
+<div style="display:flex;">
+    <div class="tech-logo">
+        <img src="./assets/logo_ps.jpg" />
+        <div class="tech-info">Photoshop</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_xd.png" />
+        <div class="tech-info">XD</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_sketch.jpg" />
+        <div class="tech-info">Sketch</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_autodesk.png" />
+        <div class="tech-info">Autodesk</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_lr.png" />
+        <div class="tech-info">Lightroom</div>
+    </div>
+</div>
+
+#### # Docs
+
+<div style="display:flex;">
+    <div class="tech-logo">
+        <img src="./assets/logo_ps.jpg" />
+        <div class="tech-info">Photoshop</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_xd.png" />
+        <div class="tech-info">XD</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_sketch.jpg" />
+        <div class="tech-info">Sketch</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_autodesk.png" />
+        <div class="tech-info">Autodesk</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_lr.png" />
+        <div class="tech-info">Lightroom</div>
+    </div>
+</div>
+
+#### # Dev Tools
+
+<div style="display:flex;">
+    <div class="tech-logo">
+        <img src="./assets/logo_ps.jpg" />
+        <div class="tech-info">Photoshop</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_xd.png" />
+        <div class="tech-info">XD</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_sketch.jpg" />
+        <div class="tech-info">Sketch</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_autodesk.png" />
+        <div class="tech-info">Autodesk</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_lr.png" />
+        <div class="tech-info">Lightroom</div>
+    </div>
+</div>
+
+#### # Package Managers
+
+<div style="display:flex;">
+    <div class="tech-logo">
+        <img src="./assets/logo_ps.jpg" />
+        <div class="tech-info">Photoshop</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_xd.png" />
+        <div class="tech-info">XD</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_sketch.jpg" />
+        <div class="tech-info">Sketch</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_autodesk.png" />
+        <div class="tech-info">Autodesk</div>
+    </div>
+    <div class="tech-logo">
+        <img src="./assets/logo_lr.png" />
+        <div class="tech-info">Lightroom</div>
+    </div>
+</div>
 
 <hr />
 

@@ -156,3 +156,16 @@ section.cover p {
     margin: 0.1rem;
     cursor: pointer;
 }
+
+.tech-logo {
+    max-width: 90px;
+    margin-right: 1rem;
+    padding: 0.4rem;
+    position: relative;
+    text-align: center;
+    border: 1px solid #eee;
+}
+
+.tech-info {
+    border-top: 1px solid #eee;
+}
