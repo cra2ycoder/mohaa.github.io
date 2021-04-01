@@ -160,6 +160,7 @@ section.cover p {
 .tech-logo {
     max-width: 90px;
     margin-right: 1rem;
+    margin-bottom: 1rem;
     padding: 0.4rem;
     position: relative;
     text-align: center;
