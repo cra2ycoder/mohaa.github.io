@@ -2,11 +2,15 @@ function renderOverview(id, data) {
   const parent = document.getElementById('detail-card-wrapper')
 
   const getCardHTMLString = x => {
+    const hashTag = x.title.toLowerCase().replace(/ /g, '-')
+
     return `<div class="detail-card">
       <h3>${x.title}</h3>
       <div class="details-card-count">${x.count}</div>
       <div class="details-card-buttons">
-        ${x.categories.map(y => `<button>${y}</button>`).join('')}
+        ${x.categories
+          .map(y => `<a href="#/?id=${hashTag}" target="_self">${y}</a>`)
+          .join('')}
       </div>
     </div>`.trim()
   }
@@ -30,10 +34,13 @@ function renderLogoCard(id, list) {
 function renderExperienceDetails(id, list) {
   const parent = document.getElementById(id)
 
-  const getLogoHTMLString = data => `
+  const getLogoHTMLString = data =>
+    data.url
+      ? `
     <div class="company-logo-img" id="${data.id}">
       <img src="${data.url}" />
     </div>`
+      : ''
 
   const getBlockQuoteHTMLString = data => `
     <blockquote>

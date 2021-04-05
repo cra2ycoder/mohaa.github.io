@@ -30,7 +30,7 @@ var overview = [
     categories: ['star', 'best employee', 'founder', 'distinguised'],
   },
   {
-    title: 'Own Libraries/Tools',
+    title: 'Own Libraries',
     count: '14+',
     categories: ['automation', 'product', 'js libs', 'tools'],
   },
@@ -331,7 +331,7 @@ const experience = [
   {
     id: 'astute',
     company: 'Astute IT Service India pvt ltd., Erode.',
-    url: 'https://cra2ycoder.sirv.com/logos/logo_skava.png',
+    url: 'https://cra2ycoder.sirv.com/logos/logo_astute.png',
     role: 'Flash Animator',
     duration: 'From Oct 2007 to September 2008',
     responsibilities: [

@@ -89,7 +89,7 @@ Overall Experience: **<ins>13+ years</ins>** | Total Companies: **<ins>4</ins>**
 
 <hr />
 
-# Own Libraries/Tools
+# Own Libraries
 
 - **8 Photoshop Automation Scripts:** For creating assets, specs, css for web development which reduced the dev effort upto 30% and designer effort upto 50%
 - **Photoshop to HTML (P2H):** An automated Static website builder using photoshop scripts which results 80% for web pages with html5 and css3. This has helped the developer effort into 80% for static page building

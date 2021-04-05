@@ -146,15 +146,18 @@ section.cover p {
     justify-content: center;
 }
 
-.details-card-buttons button {
+.details-card-buttons a {
     padding: 0.2rem 0.6rem;
     font-family: inherit;
+    font-size: 0.8rem;
     border-radius: 1rem;
     border: 0;
     color: white;
     background-color: #5c6bc0;
     margin: 0.1rem;
     cursor: pointer;
+    text-decoration: none;
+    font-weight: inherit;
 }
 
 .logo-wrapper {
