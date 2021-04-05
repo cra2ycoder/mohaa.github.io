@@ -16,7 +16,7 @@ var overview = [
       'dev tools',
       'pkg managers',
       'IDE',
-      'Utility',
+      'utility',
     ],
   },
   {
@@ -27,7 +27,7 @@ var overview = [
   {
     title: 'Awards',
     count: '8+',
-    categories: ['star', 'best employee', 'distinguised'],
+    categories: ['star', 'best employee', 'founder', 'distinguised'],
   },
   {
     title: 'Own Libraries/Tools',
