@@ -376,6 +376,12 @@ const works = {
     'https://cra2ycoder.sirv.com/works/arts/15.jpg',
     'https://cra2ycoder.sirv.com/works/arts/16.jpg',
     'https://cra2ycoder.sirv.com/works/arts/17.jpg',
+    'https://cra2ycoder.sirv.com/works/arts/18.jpg',
+    'https://cra2ycoder.sirv.com/works/arts/19.jpg',
+    'https://cra2ycoder.sirv.com/works/arts/20.jpg',
+    'https://cra2ycoder.sirv.com/works/arts/21.jpg',
+    'https://cra2ycoder.sirv.com/works/arts/22.jpg',
+    'https://cra2ycoder.sirv.com/works/arts/23.jpg',
   ],
   ps: [
     'https://cra2ycoder.sirv.com/works/ps/001.jpg',
