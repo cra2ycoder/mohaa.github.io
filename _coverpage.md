@@ -53,7 +53,7 @@
 </div>
 
 <div class="button-wrapper">
-    <button class="download-resume">Download Resume</button>
+    <a class="download-resume" href="https://cra2ycoder.sirv.com/my_profile_2020.pdf" download>Download Resume</a>
 </div>
 
 <a style="margin:2rem; display:block;" href="#/?id=overview" target="_self">

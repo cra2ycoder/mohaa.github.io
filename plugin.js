@@ -44,7 +44,7 @@ function renderExperienceDetails(id, list) {
 
   const getBlockQuoteHTMLString = data => `
     <blockquote>
-        Role: <strong>${data.role}</strong> | Duration: <strong>${data.duration}</strong>
+        Role: <strong>${data.role}</strong> | Duration: <strong>${data.duration}</strong> | Status: <strong>${data.status}</strong>
     </blockquote>`
 
   const getResponsibilitiesHTMLString = data => `
