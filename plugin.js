@@ -1,3 +1,5 @@
+const sirvURL = 'https://cra2ycoder.sirv.com/'
+
 function renderOverview(id, data) {
   const parent = document.getElementById('detail-card-wrapper')
 
@@ -23,7 +25,7 @@ function renderLogoCard(id, list) {
 
   const getLogoHTMLString = data => `<div class="tech-logo">
         <div class="tech-logo-img">
-          <img src="${data.url}" />
+          <img src="${sirvURL}/${data.url}" />
         </div>
         <div class="tech-info">${data.title}</div>
       </div>`
@@ -38,7 +40,7 @@ function renderExperienceDetails(id, list) {
     data.url
       ? `
     <div class="company-logo-img" id="${data.id}">
-      <img src="${data.url}" />
+      <img src="${sirvURL}/${data.url}" />
     </div>`
       : ''
 
@@ -71,7 +73,7 @@ function renderWorksGallery(id, list) {
 
   const getImageHTMLString = url => `
   <figure>
-    <img src='${url}' class='img-zoomable' />
+    <img src='${sirvURL}/${url}' class='img-zoomable' />
   </figure>
   `
 
