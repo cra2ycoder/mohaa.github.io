@@ -280,6 +280,8 @@ const experience = [
     url: 'logos/logo_infy.jpg',
     role: 'Creative Manager and Sr. Dev Lead',
     duration: 'From Aug 2020 to Till Date',
+    startDate: '15 Aug 2020',
+    endDate: 'till',
     status: 'Active',
     responsibilities: [
       'Leading a small development team (9 members) to create interactive and dynamic web applications for the business.',

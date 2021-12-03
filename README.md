@@ -68,12 +68,12 @@ others: **isomorphic-fetch, axios, next_i18next**
 
 Overall Experience: **<ins>13+ years</ins>** | Total Companies: **<ins>4</ins>**
 
-|     | Company Name      | Role                           | Years    |
-| --- | ----------------- | ------------------------------ | -------- |
-| #4  | Infosys           | Creative Manager & Sr.Dev Lead | 7m+      |
-| #3  | Skava an Infosys  | Creative Manager & Sr.Dev Lead | 11yrs 5m |
-| #2  | Astute            | Flash Animator                 | 1yr      |
-| #1  | Cyber web service | Trainee Designer               | 3m       |
+|     | Company Name      | Role                               | Years         |
+| --- | ----------------- | ---------------------------------- | ------------- |
+| #4  | Infosys           | Creative Manager & Sr.Frontend Dev | 0             |
+| #3  | Skava an Infosys  | Creative Manager & Sr.Frontend Dev | 11yr(s) 5m(s) |
+| #2  | Astute            | Flash Animator                     | 1yr           |
+| #1  | Cyber web service | Trainee Designer                   | 3m(s)         |
 
 <hr />
 

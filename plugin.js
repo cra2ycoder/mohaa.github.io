@@ -80,6 +80,27 @@ function renderWorksGallery(id, list) {
   parent.innerHTML = list.map(x => getImageHTMLString(x)).join('')
 }
 
+function updateExperienceDuration(currentCompany = {}) {
+  const [, secondRow] = document.querySelectorAll('table tr')
+
+  const expCell = secondRow.children[3]
+  const { startDate = '', endDate = '' } = currentCompany
+
+  const monthDiff = (dateFrom, dateTo) => {
+    return (
+      dateTo.getMonth() -
+      dateFrom.getMonth() +
+      12 * (dateTo.getFullYear() - dateFrom.getFullYear())
+    )
+  }
+
+  const totalMonths = monthDiff(new Date(startDate), new Date())
+  const totalYears = totalMonths >= 12 ? Math.floor(totalMonths / 12) : 0
+  const remainingMonths = totalMonths - totalYears * 12
+
+  expCell.textContent = `${totalYears}yr(s) ${remainingMonths}m(s)`
+}
+
 const plugins = [
   function (hook, vm) {
     hook.ready(function () {
@@ -99,6 +120,8 @@ const plugins = [
 
       renderWorksGallery('psworks', works.ps)
       renderWorksGallery('arts', works.arts)
+
+      updateExperienceDuration(experience[0])
 
       new Zooming({
         // options...
