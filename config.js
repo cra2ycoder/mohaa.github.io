@@ -278,7 +278,7 @@ const experience = [
     id: 'infosys',
     company: 'Infosys, Coimbatore',
     url: 'logos/logo_infy.jpg',
-    role: 'Creative Manager and Sr. Dev Lead',
+    role: 'Creative Manager and Sr. Frontend Lead',
     duration: 'From Aug 2020 to Till Date',
     startDate: '15 Aug 2020',
     endDate: 'till',
@@ -307,7 +307,7 @@ const experience = [
     id: 'skava',
     company: 'Skava an Infosys, Coimbatore',
     url: 'logos/logo_skava.png',
-    role: 'Creative Manager and Sr. Dev Lead',
+    role: 'Creative Manager and Sr. Frontend Lead',
     duration: 'From March 2009 to Aug 2020',
     status: 'Acquired by Infosys',
     responsibilities: [
