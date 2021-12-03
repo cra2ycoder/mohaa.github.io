@@ -66,7 +66,7 @@ others: **isomorphic-fetch, axios, next_i18next**
 
 > My career path from 2007 to till date
 
-Overall Experience: **<ins>13+ years</ins>** | Total Companies: **<ins>4</ins>**
+Overall Experience: **<ins>14 years</ins>** | Total Companies: **<ins>4</ins>**
 
 |     | Company Name      | Role                                | Years         |
 | --- | ----------------- | ----------------------------------- | ------------- |
