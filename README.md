@@ -120,6 +120,12 @@ Overall Experience: **<ins>14 years</ins>** | Total Companies: **<ins>4</ins>**
 
 <hr />
 
-<p>
-© cra2ycoder. All rights reserved. 2021
+#### # Sketch Digital Arts
+
+<div id="sketch" class="gallery"></div>
+
+<hr />
+
+<p id="footer"> 
+© cra2ycoder. All rights reserved. 
 </p>
