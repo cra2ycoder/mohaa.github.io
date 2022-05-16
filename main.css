@@ -1,3 +1,7 @@
+body {
+  background-color: #f3f6f9 !important;
+}
+
 .cover-main,
 section.content {
   padding-left: 30%;
@@ -116,7 +120,7 @@ section.cover p {
 }
 
 .detail-card {
-  border: 1px solid #eee;
+  border: 2px solid white;
   display: flex;
   flex-wrap: nowrap;
   flex-direction: column;
@@ -176,7 +180,7 @@ section.cover p {
   flex-direction: column;
   justify-content: space-between;
   box-sizing: border-box;
-  border: 1px solid #eee;
+  border: 2px solid white;
   align-items: center;
   flex: 1;
 }
@@ -250,7 +254,7 @@ main {
 @media screen and (max-width: 680px) {
   .content {
     padding-left: 0 !important;
-    background: white;
+    /* background: white; */
   }
 
   .cover-main {
@@ -294,9 +298,9 @@ main {
     margin-top: 2rem;
   }
 
-  main {
+  /* main {
     background-color: white;
-  }
+  } */
  
 }
 
@@ -305,4 +309,15 @@ main {
   .role {
     max-width: 90%;
   }
+}
+
+.markdown-section tr,
+.markdown-section td, .markdown-section th,
+[class*=docsify-tabs--] .docsify-tabs__tab,
+.docsify-tabs--classic .docsify-tabs__content {
+  border: 2px solid white;
+}
+
+.docsify-tabs__content, .markdown-section th {
+  background-color: white !important;
 }
