@@ -101,6 +101,13 @@ function updateExperienceDuration(currentCompany = {}) {
   expCell.textContent = `${totalYears}yr(s) ${remainingMonths}m(s)`
 }
 
+function updateFooter() {
+  const parentElement = document.getElementById('footer')
+  const currentYear = new Date().getFullYear()
+  console.log({ currentYear })
+  parentElement.innerText = `© cra2ycoder. All rights reserved. ${currentYear}.`
+}
+
 const plugins = [
   function (hook, vm) {
     hook.ready(function () {
@@ -120,8 +127,11 @@ const plugins = [
 
       renderWorksGallery('psworks', works.ps)
       renderWorksGallery('arts', works.arts)
+      renderWorksGallery('sketch', works.sketch)
 
       updateExperienceDuration(experience[0])
+
+      updateFooter()
 
       new Zooming({
         // options...
