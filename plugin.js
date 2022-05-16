@@ -104,7 +104,7 @@ function updateExperienceDuration(currentCompany = {}) {
 function updateFooter() {
   const parentElement = document.getElementById('footer')
   const currentYear = new Date().getFullYear()
-  console.log({ currentYear })
+
   parentElement.innerText = `© cra2ycoder. All rights reserved. ${currentYear}.`
 }
 
