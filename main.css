@@ -245,13 +245,16 @@ h1 span {
   width: auto;
   height: 100px;
   /* padding: 0.4rem; */
+  flex-grow: 1;
+  background: white;
+  padding: 4px;
 }
 
 main {
   position: inherit;
 }
 
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 1023px) {
   .content {
     padding-left: 0 !important;
     /* background: white; */
