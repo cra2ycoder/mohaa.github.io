@@ -16,7 +16,7 @@
 
 # Tech Stacks
 
-> Tech stacks that I have worked/used for developing desktop/mobile/tablet web applications, libraries, build systems, tools etc.,
+> Tech stacks that I have been working for developing desktop/mobile/tablet web applications, libraries, build systems, tools etc.,
 
 <!-- tabs:start -->
 
@@ -62,7 +62,7 @@ others: **isomorphic-fetch, axios, next_i18next**
 
 <hr />
 
-# Experience
+# Experiences
 
 > My career path from 2007 to till date
 
@@ -77,7 +77,7 @@ Overall Experience: **<ins>14 years</ins>** | Total Companies: **<ins>4</ins>**
 
 <hr />
 
-<div id="experiences"></div>
+<div id="experiences-list"></div>
 
 # Awards
 
