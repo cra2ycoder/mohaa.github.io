@@ -5,7 +5,6 @@
   "css.validate": false,
   "scss.validate": true,
   "javascript.validate.enable": false,
-  "tslint.jsEnable": false,
   "[javascript]": {
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode"
