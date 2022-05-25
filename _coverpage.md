@@ -12,7 +12,7 @@
 <h3 class="role">Experienced UI/UX Engineer and MERN Stack Developer also specialising in Typescript/Javascript, HTML5, CSS3 and SASS and Next.js Framework</h3>
 <!-- <hr class="hr-line"/> -->
 
-<p class="role">Current Role: Creative Manager & Technology Architect @ Infosys</p>
+<p class="role">Current Role: Technology Architect @ Infosys</p>
 
 <p style="margin:2rem 0; color: #53a217;">Like to LEARN, Love to SHARE, Happy to CODE.</p>
 
@@ -35,7 +35,7 @@
 </div>
 
 <div class="panel">
-    find me at:
+    <span style="margin-top:3px;">find me at:</span>
     <a class="social-links" href="https://www.linkedin.com/in/mohanraj-rangasamy-b15b7125/" target="_blank">
         <svg height="512" viewBox="0 0 24 24" width="512" xmlns="http://www.w3.org/2000/svg"><path d="M23.994 24v-.001H24v-8.802c0-4.306-.927-7.623-5.961-7.623-2.42 0-4.044 1.328-4.707 2.587h-.07V7.976H8.489v16.023h4.97v-7.934c0-2.089.396-4.109 2.983-4.109 2.549 0 2.587 2.384 2.587 4.243V24zM.396 7.977h4.976V24H.396zM2.882 0C1.291 0 0 1.291 0 2.882s1.291 2.909 2.882 2.909 2.882-1.318 2.882-2.909A2.884 2.884 0 002.882 0z"/>
         </svg>
