@@ -56,11 +56,26 @@ function renderExperienceDetails(id, list) {
         </ul>
     `
 
+  const getRolesPlayedList = data => {
+    const getData = (x, idx) => {
+      const arrow = data.rolesPlayed.length - 1 !== idx ? '>' : ''
+      return `<strong>${x}</strong> ${arrow} `
+    }
+
+    return `
+      <p>Roles Played:</p>
+      <div>
+        ${data.rolesPlayed.map(getData).join('')}
+      </div>
+    `
+  }
+
   parent.innerHTML = list
     .map(x => {
       return `
         ${getLogoHTMLString(x)}
         ${getBlockQuoteHTMLString(x)}
+        ${x.rolesPlayed.length > 0 ? getRolesPlayedList(x) : ''}
         ${getResponsibilitiesHTMLString(x)}
         <hr />
     `
@@ -123,7 +138,7 @@ const plugins = [
       renderLogoCard('packagemanagers', techStacks.packagemanagers)
       renderLogoCard('ide', businessTools.ide)
       renderLogoCard('utility', businessTools.utility)
-      renderExperienceDetails('experiences', experience)
+      renderExperienceDetails('experiences-list', experience)
 
       renderWorksGallery('psworks', works.ps)
       renderWorksGallery('arts', works.arts)
