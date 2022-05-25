@@ -71,7 +71,7 @@ Overall Experience: **<ins>14 years</ins>** | Total Companies: **<ins>4</ins>**
 |     | Company Name      | Role                                | Years         |
 | --- | ----------------- | ----------------------------------- | ------------- |
 | #4  | Infosys           | Technology Architect                | 0             |
-| #3  | Skava an Infosys  | Creative Manager & Sr.Frontend Lead | 11yr(s) 5m(s) |
+| #3  | Skava             | Creative Manager & Sr.Frontend Lead | 11yr(s) 5m(s) |
 | #2  | Astute            | Flash Animator                      | 1yr           |
 | #1  | Cyber web service | Trainee Designer                    | 3m(s)         |
 
