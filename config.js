@@ -278,11 +278,12 @@ const experience = [
     id: 'infosys',
     company: 'Infosys, Coimbatore',
     url: 'logos/logo_infy.jpg',
-    role: 'Creative Manager and Sr. Frontend Lead',
+    role: 'Technology Architect',
     duration: 'From Aug 2020 to Till Date',
     startDate: '15 Aug 2020',
     endDate: 'till',
     status: 'Active',
+    rolesPlayed: ['Creative Manager & Sr. Frontend Lead'],
     responsibilities: [
       'Leading a small development team (9 members) to create interactive and dynamic web applications for the business.',
       'Technology Stack: React JS with Hooks, Typescript, HTML5, CSS3, JavaScript (ES6+), Next.js, Material Bootstrap, Express.js, i18next, Webpack, Storybook, Docsify, Lints, etc.,',
@@ -310,6 +311,13 @@ const experience = [
     role: 'Creative Manager and Sr. Frontend Lead',
     duration: 'From March 2009 to Aug 2020',
     status: 'Acquired by Infosys',
+    rolesPlayed: [
+      'Creative Engineer',
+      'Sr.Creative Engineer',
+      'Creative Lead',
+      'Sr.Creative Lead',
+      'Creative Manager',
+    ],
     responsibilities: [
       'Leading a small development team to create interactive and dynamic web applications for the business.',
       'Technology Stack: React JS with Hooks, Typescript, HTML5, CSS3, JavaScript (ES6+), Next.js, Material Bootstrap, ExpressJs, i18next, Webpack, Storybook, Docsify, Lints, etc.,',
@@ -339,6 +347,7 @@ const experience = [
     role: 'Flash Animator',
     duration: 'From Oct 2007 to September 2008',
     status: 'Strike Off',
+    rolesPlayed: [],
     responsibilities: [
       'Creating the 2D animations for Business Ads',
       'Character designing rigging & animations for multiple games',
@@ -354,6 +363,7 @@ const experience = [
     role: 'Trainee Designer',
     duration: 'From May 2007 to July 2007',
     status: 'Active',
+    rolesPlayed: [],
     responsibilities: [
       'Creating the 2D animations for Business Ads',
       'Creating 2D user interactive presentations',
