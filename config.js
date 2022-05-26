@@ -70,8 +70,8 @@ const designTools = [
 
 const techStacks = {
   languages: [
-    { url: 'logos/logo_html.png', title: 'HTML' },
-    { url: 'logos/logo_css.png', title: 'CSS' },
+    { url: 'logos/logo_html.png', title: 'HTML/HTML5' },
+    { url: 'logos/logo_css.png', title: 'CSS/CSS3' },
     { url: 'logos/logo_js.jpeg', title: 'JS/ES5' },
     { url: 'logos/logo_es6.jpg', title: 'JS/ES6+' },
     {
@@ -79,21 +79,21 @@ const techStacks = {
       title: 'Typescript',
     },
     {
-      url: 'logos/logo_nodejs.png',
-      title: 'NodeJS',
+      url: 'logos/logo_graphql.png',
+      title: 'GraphQL',
     },
+    { url: 'logos/logo_sass.png', title: 'SASS' },
+    // {
+    //   url: 'logos/logo_nodejs.png',
+    //   title: 'NodeJS',
+    // },
     { url: 'logos/logo_ftl.jpg', title: 'FTL' },
     { url: 'logos/logo_xml.png', title: 'XML' },
     {
       url: 'logos/logo_hb.png',
       title: 'Handlebars',
     },
-    {
-      url: 'logos/logo_graphql.png',
-      title: 'GraphQL',
-    },
     { url: 'logos/logo_md.png', title: 'Markdown' },
-    { url: 'logos/logo_sass.png', title: 'SASS' },
     { url: 'logos/logo_yaml.png', title: 'YAML' },
     { url: 'logos/logo_as3.png', title: 'AS3' },
   ],
@@ -117,6 +117,10 @@ const techStacks = {
     },
   ],
   libraries: [
+    {
+      url: 'logos/logo_expressjs.png',
+      title: 'Express.js',
+    },
     { url: 'logos/logo_react.png', title: 'React' },
     { url: 'logos/logo_redux.png', title: 'Redux' },
     { url: 'logos/logo_mobx.png', title: 'Mobx' },
@@ -139,10 +143,6 @@ const techStacks = {
     {
       url: 'logos/logo_jquery_ui.png',
       title: 'jQuery UI',
-    },
-    {
-      url: 'logos/logo_expressjs.png',
-      title: 'Express.js',
     },
     {
       url: 'logos/logo_apollo.png',

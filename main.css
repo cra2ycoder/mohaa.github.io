@@ -182,7 +182,7 @@ section.cover p {
   box-sizing: border-box;
   border: 2px solid white;
   align-items: center;
-  flex: 1;
+  /* flex: 1; */
 }
 
 .tech-info {
