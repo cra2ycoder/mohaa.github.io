@@ -69,6 +69,12 @@ const designTools = [
 ]
 
 const techStacks = {
+  runtime: [
+    {
+      url: 'logos/logo_nodejs.png',
+      title: 'NodeJS',
+    },
+  ],
   languages: [
     { url: 'logos/logo_html.png', title: 'HTML/HTML5' },
     { url: 'logos/logo_css.png', title: 'CSS/CSS3' },
@@ -83,10 +89,6 @@ const techStacks = {
       title: 'GraphQL',
     },
     { url: 'logos/logo_sass.png', title: 'SASS' },
-    // {
-    //   url: 'logos/logo_nodejs.png',
-    //   title: 'NodeJS',
-    // },
     { url: 'logos/logo_ftl.jpg', title: 'FTL' },
     { url: 'logos/logo_xml.png', title: 'XML' },
     {

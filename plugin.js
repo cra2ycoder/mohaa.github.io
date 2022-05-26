@@ -20,7 +20,7 @@ function renderOverview(id, data) {
   parent.innerHTML = data.map(x => getCardHTMLString(x)).join('')
 }
 
-function renderLogoCard(id, list) {
+function renderLogoCard(id, list = []) {
   const parent = document.getElementById(id)
 
   const getLogoHTMLString = data => `<div class="tech-logo">
@@ -129,6 +129,7 @@ const plugins = [
       renderOverview('detail-card-wrapper', overview)
 
       renderLogoCard('designtools', designTools)
+      renderLogoCard('runtime', techStacks.runtime)
       renderLogoCard('languages', techStacks.languages)
       renderLogoCard('frameworks', techStacks.frameworks)
       renderLogoCard('libraries', techStacks.libraries)
