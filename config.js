@@ -78,29 +78,28 @@ const techStacks = {
   languages: [
     { url: 'logos/logo_html.png', title: 'HTML/HTML5' },
     { url: 'logos/logo_css.png', title: 'CSS/CSS3' },
-    { url: 'logos/logo_js.jpeg', title: 'JS/ES5' },
-    { url: 'logos/logo_es6.jpg', title: 'JS/ES6+' },
+    { url: 'logos/logo_js.jpeg', title: 'JS/ES6+' },
     {
       url: 'logos/logo_ts.jpg',
       title: 'Typescript',
     },
-    {
-      url: 'logos/logo_graphql.png',
-      title: 'GraphQL',
-    },
+    // {
+    //   url: 'logos/logo_graphql.png',
+    //   title: 'GraphQL',
+    // },
     { url: 'logos/logo_sass.png', title: 'SASS' },
-    { url: 'logos/logo_ftl.jpg', title: 'FTL' },
+    // { url: 'logos/logo_ftl.jpg', title: 'FTL' },
     { url: 'logos/logo_xml.png', title: 'XML' },
-    {
-      url: 'logos/logo_hb.png',
-      title: 'Handlebars',
-    },
+    // {
+    //   url: 'logos/logo_hb.png',
+    //   title: 'Handlebars',
+    // },
     { url: 'logos/logo_md.png', title: 'Markdown' },
-    { url: 'logos/logo_yaml.png', title: 'YAML' },
+    // { url: 'logos/logo_yaml.png', title: 'YAML' },
     { url: 'logos/logo_as3.png', title: 'AS3' },
   ],
   frameworks: [
-    { url: 'logos/logo_cra.png', title: 'CRA' },
+    // { url: 'logos/logo_cra.png', title: 'CRA' },
     {
       url: 'logos/logo_nextjs.png',
       title: 'Next.js ',
@@ -146,10 +145,10 @@ const techStacks = {
       url: 'logos/logo_jquery_ui.png',
       title: 'jQuery UI',
     },
-    {
-      url: 'logos/logo_apollo.png',
-      title: 'Apollo Link State',
-    },
+    // {
+    //   url: 'logos/logo_apollo.png',
+    //   title: 'Apollo Link State',
+    // },
   ],
   unittesting: [
     { url: 'logos/logo_jest.png', title: 'Jest' },
@@ -161,10 +160,10 @@ const techStacks = {
       url: 'logos/logo_puppeteer.png',
       title: 'Puppeteer',
     },
-    {
-      url: 'logos/logo_rtl.png',
-      title: 'React Testing Library',
-    },
+    // {
+    //   url: 'logos/logo_rtl.png',
+    //   title: 'React Testing Library',
+    // },
   ],
   docs: [
     {
@@ -172,10 +171,10 @@ const techStacks = {
       title: 'Docsify',
     },
     { url: 'logos/logo_md.png', title: 'Markdown' },
-    {
-      url: 'logos/logo_jsdoc3.png',
-      title: 'JS Docs',
-    },
+    // {
+    //   url: 'logos/logo_jsdoc3.png',
+    //   title: 'JS Docs',
+    // },
   ],
   devtools: [
     { url: 'logos/logo_git.png', title: 'GIT' },
@@ -193,10 +192,10 @@ const techStacks = {
       url: 'logos/logo_eslint.jpg',
       title: 'ES Lint',
     },
-    {
-      url: 'logos/logo_tslint.png',
-      title: 'TS Lint',
-    },
+    // {
+    //   url: 'logos/logo_tslint.png',
+    //   title: 'TS Lint',
+    // },
     {
       url: 'logos/logo_sonarlint.png',
       title: 'Sonar Lint',
@@ -220,14 +219,14 @@ const techStacks = {
 const businessTools = {
   ide: [
     { url: 'logos/logo_vs.png', title: 'VS Code' },
-    {
-      url: 'logos/logo_sublime.jpg',
-      title: 'Sublime',
-    },
-    {
-      url: 'logos/logo_eclipse.png',
-      title: 'Eclipse',
-    },
+    // {
+    //   url: 'logos/logo_sublime.jpg',
+    //   title: 'Sublime',
+    // },
+    // {
+    //   url: 'logos/logo_eclipse.png',
+    //   title: 'Eclipse',
+    // },
     {
       url: 'logos/logo_notepad.png',
       title: 'Notepad++',
@@ -235,25 +234,12 @@ const businessTools = {
   ],
   utility: [
     {
+      url: 'logos/logo_github.png',
+      title: 'Git Hub',
+    },
+    {
       url: 'logos/logo_codesandbox.png',
       title: 'Code sandbox',
-    },
-    { url: 'logos/logo_jira.jpg', title: 'JIRA' },
-    {
-      url: 'logos/logo_confluence.jpg',
-      title: 'Confluence',
-    },
-    {
-      url: 'logos/logo_trello.jpg',
-      title: 'Trello',
-    },
-    {
-      url: 'logos/logo_gitlab.png',
-      title: 'GitLab',
-    },
-    {
-      url: 'logos/logo_gdrive.jpg',
-      title: 'G Drive',
     },
     {
       url: 'logos/logo_bitbucket.jpg',
@@ -264,13 +250,27 @@ const businessTools = {
       title: 'Tortoise Git',
     },
     { url: 'logos/logo_tower.png', title: 'Tower' },
-    {
-      url: 'logos/logo_github.png',
-      title: 'Git Hub',
-    },
+
     {
       url: 'logos/logo_sourcetree.png',
       title: 'Source Tree',
+    },
+    { url: 'logos/logo_jira.jpg', title: 'JIRA' },
+    {
+      url: 'logos/logo_confluence.jpg',
+      title: 'Confluence',
+    },
+    {
+      url: 'logos/logo_trello.jpg',
+      title: 'Trello',
+    },
+    // {
+    //   url: 'logos/logo_gitlab.png',
+    //   title: 'GitLab',
+    // },
+    {
+      url: 'logos/logo_gdrive.jpg',
+      title: 'G Drive',
     },
   ],
 }
@@ -280,28 +280,22 @@ const experience = [
     id: 'infosys',
     company: 'Infosys, Coimbatore',
     url: 'logos/logo_infy.jpg',
-    role: 'Technology Architect',
+    role: 'Architect',
     duration: 'From Aug 2020 to Till Date',
     startDate: '15 Aug 2020',
     endDate: 'till',
     status: 'Active',
-    rolesPlayed: ['Creative Manager & Sr. Frontend Lead'],
+    rolesPlayed: ['Creative Manager', 'Architect'],
     responsibilities: [
-      'Leading a small development team (9 members) to create interactive and dynamic web applications for the business.',
-      'Technology Stack: React JS with Hooks, Typescript, HTML5, CSS3, JavaScript (ES6+), Next.js, Material Bootstrap, Express.js, i18next, Webpack, Storybook, Docsify, Lints, etc.,',
-      'Creating the Build system for web app development, CICD Integrations for Dev, UAT, PDN environments & configuration setups',
-      'Having Daily standup meeting with team, peer programming and live coding',
-      'Tech stacks training to the team',
-      'Building automation tools for reducing the dev efforts',
-      'Designs & prototype reviews',
-      'Gathering Software requirements, design and develop',
-      'Elicit requirements from BA team and executing in Agile sprints',
-      'Developing iterative functionality/prototypes based on requirements',
-      'Application development using MDBReact, ReactJS, State management with Hooks,Typescript and Next.Js',
-      'Identify design alternatives and conduct technical feasibility',
-      'Solving Technical Issues',
+      'Leading a small development team to create interactive and dynamic web applications for the business.',
+      'Technology Stack: Modern Javascript (ES6+), React JS with Hooks, Typescript, HTML5, CSS3, Next.js, Material Bootstrap, Express.js, i18next, Webpack, Storybook, Docsify, Lints, etc.,',
+      'Creating the Build system for Web App development with CICD Integrated for multiple environments.',
+      'Having Daily stand up meeting with team, peer programming and live coding.',
+      'Code reviews, merge and deployments.',
+      'Identify design alternatives and conduct technical feasibility.',
+      'Solving Technical Issues.',
       'Creating Flow diagrams, architecture diagrams, documentations etc.,',
-      'Driving team which includes from fresh college grads to experienced laterals',
+      'Driving team which includes from fresh college grads to experienced laterals.',
       'Building UI/UX components based on the Atomic Design Methodology.',
     ],
     clients: [],
@@ -322,22 +316,19 @@ const experience = [
     ],
     responsibilities: [
       'Leading a small development team to create interactive and dynamic web applications for the business.',
-      'Technology Stack: React JS with Hooks, Typescript, HTML5, CSS3, JavaScript (ES6+), Next.js, Material Bootstrap, ExpressJs, i18next, Webpack, Storybook, Docsify, Lints, etc.,',
-      'Creating the Build system for web App development, CICD Integrations, Dev and PDN deployment configuration setups',
-      'Having Daily standup meeting with team, peer programming and live coding',
-      'Creating the mobile/tablet web/app UI designs based on the customer needs',
-      'Creating the wireframes',
+      'Technology Stack: Modern Javascript (ES6+), React JS with Hooks, Typescript, HTML5, CSS3, Next.js, Material Bootstrap, Express.js, i18next, Webpack, Storybook, Docsify, Lints, etc.,',
+      'Creating the Build system for Web App development with CICD Integrated for multiple environments.',
+      'Having Daily stand up meeting with team, peer programming and live coding.',
+      'Creating the wire frames',
       'Creating the design & video presentation for multiple products to promote them for sales perspective.',
       'Tech stacks training to the team',
-      'Building automation tools for reducing the dev efforts',
+      'Code reviews, merge and deployments.',
+      'Building automation tools for reducing the development and developer efforts',
       'Designs & prototype reviews',
-      'Gathering Software requirements, design and develop',
       'Elicit requirements from BA team and executing in Agile sprints',
-      'Developing iterative functionality/prototypes based on requirements ',
-      'Application development using MDBReact, ReactJS, State management with Hooks, Typescript and Next.Js',
-      'Identify design alternatives and conduct technical feasibility',
-      'Solving Technical Issues',
-      'Driving team which includes from fresh college grads to experienced laterals ',
+      'Identify design alternatives and conduct technical feasibility.',
+      'Solving Technical Issues.',
+      'Driving team which includes from fresh college grads to experienced laterals.',
       'Building UI/UX components based on the Atomic Design Methodology.',
     ],
     clients: [],
