@@ -1,20 +1,20 @@
-# Overview
+<!-- # Overview
 
 > Like to LEARN, Love to SHARE, Happy to CODE.
 
-<div id="detail-card-wrapper" class="details-card-wrapper"></div>
+<div id="detail-card-wrapper" class="details-card-wrapper"></div> -->
 
-<hr />
+<!-- <hr /> -->
 
 # Design Tools
 
-> Software design tools that I have used for desktop/mobile/tablet web applications designs, poster, abstract designs and digital arts.
+> Software design tools that I have used for designing the desktop/mobile/tablet web applications, poster, abstract designs and digital arts.
 
 <div id="designtools" class="logo-wrapper"></div>
 
 <hr />
 
-# Tech Stacks
+# Core Skills
 
 > Tech stacks that I have been working for developing desktop/mobile/tablet web applications, libraries, build systems, tools etc.,
 
@@ -36,7 +36,7 @@
 
 <div id="libraries" class="logo-wrapper"></div>
 
-others: **isomorphic-fetch, axios, next_i18next**
+<!-- others: **isomorphic-fetch, axios, next_i18next** -->
 
 #### ** Unit Testing **
 
@@ -66,24 +66,25 @@ others: **isomorphic-fetch, axios, next_i18next**
 
 <hr />
 
-# Experiences
+# Employment History
 
 > My career path from 2007 to till date
 
 Overall Experience: **<ins>14 years</ins>** | Total Companies: **<ins>4</ins>**
 
-|     | Company Name      | Role                                | Years         |
-| --- | ----------------- | ----------------------------------- | ------------- |
-| #4  | Infosys           | Technology Architect                | 0             |
-| #3  | Skava             | Creative Manager & Sr.Frontend Lead | 11yr(s) 5m(s) |
-| #2  | Astute            | Flash Animator                      | 1yr           |
-| #1  | Cyber web service | Trainee Designer                    | 3m(s)         |
+|     | Company Name      | Roles                                                                   | Years         |
+| --- | ----------------- | ----------------------------------------------------------------------- | ------------- |
+| #4  | Infosys Equinox   | Creative Manager > Architect                                            | 0             |
+| #3  | Skava an Infosys  | Creative Engg., > Sr.Creative Engg., > Creative Lead > Creative Manager | 11yr(s) 5m(s) |
+| #2  | Astute            | Flash Animator                                                          | 1yr           |
+| #1  | Cyber web service | Trainee Designer                                                        | 3m(s)         |
 
 <hr />
 
+
 <div id="experiences-list"></div>
 
-# Awards
+# Awards & Recognition
 
 - **Multiple Star Award for Best performance of the year (2011, 2013, 2015)** ( CEOs: Sudha & Arish, VPs: Kavitha, Murali Krishna)
 - **Founder Award (2015 - 2016)**: SASS Library (ADZE) (former CEO Sudha, Skava an Infosys)
