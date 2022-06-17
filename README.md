@@ -70,7 +70,10 @@
 
 > My career path from 2007 to till date
 
-Overall Experience: **<ins>14 years</ins>** | Total Companies: **<ins>4</ins>**
+Overall Experience: **<b>14 years</b>** | Total Companies: **<b>4</b>**
+
+- **<b>At Technology Platform, 7+ Years**</b> | July 2014 - Present
+- **<b>At Creative Platform, 7 Years**</b> | May 2007 - June 2014
 
 |     | Company Name      | Roles                                                                   | Years         |
 | --- | ----------------- | ----------------------------------------------------------------------- | ------------- |
@@ -94,7 +97,7 @@ Overall Experience: **<ins>14 years</ins>** | Total Companies: **<ins>4</ins>**
 
 <hr />
 
-# Own Libraries
+# Innovations
 
 - **8 Photoshop Automation Scripts:** For creating assets, specs, css for web development which reduced the dev effort upto 30% and designer effort upto 50%
 - **Photoshop to HTML (P2H):** An automated Static website builder using photoshop scripts which results 80% for web pages with html5 and css3. This has helped the developer effort into 80% for static page building
