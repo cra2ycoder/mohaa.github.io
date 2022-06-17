@@ -126,7 +126,7 @@ function updateFooter() {
 const plugins = [
   function (hook, vm) {
     hook.ready(function () {
-      renderOverview('detail-card-wrapper', overview)
+      // renderOverview('detail-card-wrapper', overview)
 
       renderLogoCard('designtools', designTools)
       renderLogoCard('runtime', techStacks.runtime)
