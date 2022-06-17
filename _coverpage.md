@@ -9,10 +9,14 @@
 <h1 class="name" style="margin:0;">Mohanraj Rangasamy</h1>
 
 <!-- <hr class="hr-line"/> -->
-<h3 class="role">Experienced UI/UX Engineer and MERN Stack Developer also specialising in Typescript/Javascript, HTML5, CSS3 and SASS and Next.js Framework</h3>
+<h3 class="role">Innovation Front End Developer with 7+ years experience
+building and maintaining responsive websites in the recruiting
+ industry. Proficient in HTML, CSS, Javascript; plus modern
+ libraries and frameworks. Passionate about usability and
+ possess working knowledge of Adobe Photoshop & XD.</h3>
 <!-- <hr class="hr-line"/> -->
 
-<p class="role">Current Role: Technology Architect @ Infosys</p>
+<p class="role">Current Role: Architect @ Infosys</p>
 
 <p style="margin:2rem 0; color: #53a217;">Like to LEARN, Love to SHARE, Happy to CODE.</p>
 
