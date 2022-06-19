@@ -386,7 +386,16 @@ const works = {
     'works/arts/16.jpg',
     'works/arts/17.jpg',
   ],
+  pencil: [
+    'works/arts/pencil/p1.jpg',
+    'works/arts/pencil/p2.jpg',
+    'works/arts/pencil/p3.jpg',
+    'works/arts/pencil/p4.jpg',
+    'works/arts/pencil/p5.jpg',
+  ],
   sketch: [
+    'works/arts/sketch/s1.jpg',
+    'works/arts/sketch/s2.jpg',
     'works/arts/18.jpg',
     'works/arts/19.jpg',
     'works/arts/20.jpg',
