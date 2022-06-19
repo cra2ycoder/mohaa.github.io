@@ -122,7 +122,7 @@ Overall Experience: **<b>14 years</b>** | Total Companies: **<b>4</b>**
 
 <div id="psworks" class="gallery"></div>
 
-#### # Pencil Sketchs
+#### # Pencil Sketches
 
 <div id="pencil-arts" class="gallery"></div>
 
