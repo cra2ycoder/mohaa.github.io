@@ -142,6 +142,7 @@ const plugins = [
       renderExperienceDetails('experiences-list', experience)
 
       renderWorksGallery('psworks', works.ps)
+      renderWorksGallery('pencil-arts', works.pencil)
       renderWorksGallery('arts', works.arts)
       renderWorksGallery('sketch', works.sketch)
 
