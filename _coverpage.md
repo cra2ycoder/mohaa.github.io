@@ -11,7 +11,7 @@
 <!-- <hr class="hr-line"/> -->
 <h3 class="role">Innovation Front End Developer with 7+ years experience
 building and maintaining responsive websites in the recruiting
- industry. Proficient in HTML, CSS, Javascript; plus modern
+ industry. Well-versed in HTML, CSS, Javascript; plus modern
  libraries and frameworks. Passionate about usability and
  possess working knowledge of Adobe Photoshop & XD.</h3>
 <!-- <hr class="hr-line"/> -->
@@ -59,7 +59,9 @@ building and maintaining responsive websites in the recruiting
 </div>
 
 <div class="button-wrapper">
-    <a class="download-resume" href="https://cra2ycoder.sirv.com/mohanraj_profile.pdf" download>Download Resume</a>
+    <span style="color: white;">Download Resume:</span>
+    <a class="download-resume" href="https://cra2ycoder.sirv.com/mohanraj_profile.pdf" download>Detailed</a>
+     <a class="download-resume" href="https://cra2ycoder.sirv.com/mohanraj_profile_simple.pdf" download>Simple</a>
 </div>
 
 <a style="margin:2rem; display:block;" href="#/?id=overview" target="_self">
