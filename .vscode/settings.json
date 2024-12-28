@@ -114,7 +114,7 @@
   "liveSassCompile.settings.generateMap": false,
   "typescript.tsdk": "node_modules/typescript/lib",
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": false
+    "source.fixAll.eslint": "never"
   },
   "javascript.updateImportsOnFileMove.enabled": "always",
   "gitlens.advanced.messages": {

@@ -209,7 +209,7 @@ const techStacks = {
   packagemanagers: [
     { url: 'logos/logo_npm.png', title: 'NPM' },
     { url: 'logos/logo_yarn.jpg', title: 'Yarn' },
-    { url: 'logos/logo_pnpm.jpg', title: 'PNPM' },
+    { url: 'logos/logo_pnpm.png', title: 'PNPM' },
     {
       url: 'logos/logo_verdaccio.jpg',
       title: 'Verdaccio',
@@ -301,9 +301,7 @@ const experience = [
       'Driving team which includes from fresh college grads to experienced laterals.',
       'Building UI/UX components based on the Atomic Design Methodology.',
     ],
-    clients: [
-      'NuSkin', 'Young Living'
-    ],
+    clients: ['NuSkin', 'Young Living'],
   },
   {
     id: 'skava',
@@ -337,7 +335,7 @@ const experience = [
       'Building UI/UX components based on the Atomic Design Methodology.',
     ],
     clients: [],
-  }
+  },
 ]
 
 const works = {
