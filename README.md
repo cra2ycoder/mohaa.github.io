@@ -68,13 +68,13 @@
 
 # Employment History
 
-- **<b>At Technology Platform, 6+ Years**</b> 
-- **<b>At Creative Platform, 8 Years**</b>
+- **<b>At Technology Platform, 6+ Years** | July 2018 - Present</b>
+- **<b>At Creative Platform, 9 Years** | May 2009 - June 2018</b>
 
-|     | Company Name      | Roles                                                                   | Years         |
-| --- | ----------------- | ----------------------------------------------------------------------- | ------------- |
-| #2  | Infosys Equinox   | Creative Manager > Architect                                            | 3yrs+         |
-| #1  | Skava an Infosys  | Creative Engg., > Sr.Creative Engg., > Creative Lead > Creative Manager | 11yr(s) 5m(s) |
+|     | Company Name     | Roles                                                                   | Years         |
+| --- | ---------------- | ----------------------------------------------------------------------- | ------------- |
+| #2  | Infosys Equinox  | Creative Manager > Architect                                            | 3yrs+         |
+| #1  | Skava an Infosys | Creative Engg., > Sr.Creative Engg., > Creative Lead > Creative Manager | 11yr(s) 5m(s) |
 
 <hr />
 

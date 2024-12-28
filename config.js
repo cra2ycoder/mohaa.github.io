@@ -156,10 +156,10 @@ const techStacks = {
       url: 'logos/logo_cypress.webp',
       title: 'Cypress',
     },
-    {
-      url: 'logos/logo_puppeteer.png',
-      title: 'Puppeteer',
-    },
+    // {
+    //   url: 'logos/logo_puppeteer.png',
+    //   title: 'Puppeteer',
+    // },
     // {
     //   url: 'logos/logo_rtl.png',
     //   title: 'React Testing Library',

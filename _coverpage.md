@@ -11,7 +11,7 @@
 <!-- <hr class="hr-line"/> -->
 <h3 class="role">Innovation Front End Developer with 7+ years experience
 building and maintaining responsive websites in the recruiting
- industry. Well-versed in HTML, CSS, Javascript; plus modern
+ industry. Well-versed in HTML, CSS, Javascript/Typescript, React.js, Next.js; plus modern
  libraries and frameworks. Passionate about usability and
  possess working knowledge of Adobe Photoshop & XD.</h3>
 <!-- <hr class="hr-line"/> -->
