@@ -61,7 +61,7 @@ building and maintaining responsive websites in the recruiting
 <div class="button-wrapper">
     <span style="color: white;">Download Resume:</span>
     <a class="download-resume" href="https://cra2ycoder.sirv.com/mohanraj_profile.pdf" download>Detailed</a>
-     <a class="download-resume" href="https://cra2ycoder.sirv.com/mohanraj_profile_simple.pdf" download>Simple</a>
+     <!-- <a class="download-resume" href="https://cra2ycoder.sirv.com/mohanraj_profile_simple.pdf" download>Simple</a> -->
 </div>
 
 <a style="margin:2rem; display:block;" href="#/?id=overview" target="_self">
