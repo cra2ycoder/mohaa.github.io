@@ -21,8 +21,8 @@ var overview = [
   },
   {
     title: 'Experience',
-    count: '13+',
-    categories: ['infosys', 'skava', 'astute', 'cyber web'],
+    count: '14',
+    categories: ['infosys', 'skava'],
   },
   {
     title: 'Awards',
@@ -89,14 +89,14 @@ const techStacks = {
     // },
     { url: 'logos/logo_sass.png', title: 'SASS' },
     // { url: 'logos/logo_ftl.jpg', title: 'FTL' },
-    { url: 'logos/logo_xml.png', title: 'XML' },
+    // { url: 'logos/logo_xml.png', title: 'XML' },
     // {
     //   url: 'logos/logo_hb.png',
     //   title: 'Handlebars',
     // },
     { url: 'logos/logo_md.png', title: 'Markdown' },
     // { url: 'logos/logo_yaml.png', title: 'YAML' },
-    { url: 'logos/logo_as3.png', title: 'AS3' },
+    // { url: 'logos/logo_as3.png', title: 'AS3' },
   ],
   frameworks: [
     // { url: 'logos/logo_cra.png', title: 'CRA' },
@@ -123,7 +123,7 @@ const techStacks = {
       title: 'Express.js',
     },
     { url: 'logos/logo_react.png', title: 'React' },
-    { url: 'logos/logo_redux.png', title: 'Redux' },
+    // { url: 'logos/logo_redux.png', title: 'Redux' },
     { url: 'logos/logo_mobx.png', title: 'Mobx' },
     {
       url: 'logos/logo_styledcomp.png',
@@ -171,6 +171,7 @@ const techStacks = {
       title: 'Docsify',
     },
     { url: 'logos/logo_md.png', title: 'Markdown' },
+    { url: 'logos/logo_nextra.png', title: 'Nextura' },
     // {
     //   url: 'logos/logo_jsdoc3.png',
     //   title: 'JS Docs',
@@ -206,8 +207,9 @@ const techStacks = {
     },
   ],
   packagemanagers: [
-    { url: 'logos/logo_yarn.jpg', title: 'Yarn' },
     { url: 'logos/logo_npm.png', title: 'NPM' },
+    { url: 'logos/logo_yarn.jpg', title: 'Yarn' },
+    { url: 'logos/logo_pnpm.jpg', title: 'PNPM' },
     {
       url: 'logos/logo_verdaccio.jpg',
       title: 'Verdaccio',
@@ -237,10 +239,10 @@ const businessTools = {
       url: 'logos/logo_github.png',
       title: 'Git Hub',
     },
-    {
-      url: 'logos/logo_codesandbox.png',
-      title: 'Code sandbox',
-    },
+    // {
+    //   url: 'logos/logo_codesandbox.png',
+    //   title: 'Code sandbox',
+    // },
     {
       url: 'logos/logo_bitbucket.jpg',
       title: 'Bitbucket',
@@ -256,14 +258,14 @@ const businessTools = {
       title: 'Source Tree',
     },
     { url: 'logos/logo_jira.jpg', title: 'JIRA' },
-    {
-      url: 'logos/logo_confluence.jpg',
-      title: 'Confluence',
-    },
-    {
-      url: 'logos/logo_trello.jpg',
-      title: 'Trello',
-    },
+    // {
+    //   url: 'logos/logo_confluence.jpg',
+    //   title: 'Confluence',
+    // },
+    // {
+    //   url: 'logos/logo_trello.jpg',
+    //   title: 'Trello',
+    // },
     // {
     //   url: 'logos/logo_gitlab.png',
     //   title: 'GitLab',
@@ -288,7 +290,8 @@ const experience = [
     rolesPlayed: ['Creative Manager', 'Architect'],
     responsibilities: [
       'Leading a small development team to create interactive and dynamic web applications for the business.',
-      'Technology Stack: Modern Javascript (ES6+), React JS with Hooks, Typescript, HTML5, CSS3, Next.js, Material Bootstrap, Express.js, i18next, Webpack, Storybook, Docsify, Lints, etc.,',
+      'Technology Stack: Modern Javascript (ES6+), React JS with Hooks, Typescript, HTML5, CSS3, Next.js, Material Bootstrap, Tanstack React Query, Express.js, i18next, Webpack, Storybook, Docsify, Lints, etc.,',
+      'Building web applications with MFE (Micro-frontend based architecture)',
       'Creating the Build system for Web App development with CICD Integrated for multiple environments.',
       'Having Daily stand up meeting with team, peer programming and live coding.',
       'Code reviews, merge and deployments.',
@@ -298,7 +301,9 @@ const experience = [
       'Driving team which includes from fresh college grads to experienced laterals.',
       'Building UI/UX components based on the Atomic Design Methodology.',
     ],
-    clients: [],
+    clients: [
+      'NuSkin', 'Young Living'
+    ],
   },
   {
     id: 'skava',
@@ -332,38 +337,7 @@ const experience = [
       'Building UI/UX components based on the Atomic Design Methodology.',
     ],
     clients: [],
-  },
-  {
-    id: 'astute',
-    company: 'Astute IT Service India pvt ltd., Erode.',
-    url: 'logos/logo_astute.png',
-    role: 'Flash Animator',
-    duration: 'From Oct 2007 to September 2008',
-    status: 'Strike Off',
-    rolesPlayed: [],
-    responsibilities: [
-      'Creating the 2D animations for Business Ads',
-      'Character designing rigging & animations for multiple games',
-      'Creating 2D user interactive presentations',
-      'Creating Posters, web designs for web applications',
-    ],
-    clients: [],
-  },
-  {
-    id: 'cws',
-    company: 'Cyber Web Service, Coimbatore.',
-    url: 'logos/logo_cws.jpg',
-    role: 'Trainee Designer',
-    duration: 'From May 2007 to July 2007',
-    status: 'Active',
-    rolesPlayed: [],
-    responsibilities: [
-      'Creating the 2D animations for Business Ads',
-      'Creating 2D user interactive presentations',
-      'Creating Posters, web designs for web applications',
-    ],
-    clients: [],
-  },
+  }
 ]
 
 const works = {
