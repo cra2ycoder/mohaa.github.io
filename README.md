@@ -68,19 +68,13 @@
 
 # Employment History
 
-> My career path from 2007 to till date
-
-Overall Experience: **<b>14 years</b>** | Total Companies: **<b>4</b>**
-
-- **<b>At Technology Platform, 7+ Years**</b> | July 2014 - Present
-- **<b>At Creative Platform, 7 Years**</b> | May 2007 - June 2014
+- **<b>At Technology Platform, 6+ Years**</b> 
+- **<b>At Creative Platform, 8 Years**</b>
 
 |     | Company Name      | Roles                                                                   | Years         |
 | --- | ----------------- | ----------------------------------------------------------------------- | ------------- |
-| #4  | Infosys Equinox   | Creative Manager > Architect                                            | 0             |
-| #3  | Skava an Infosys  | Creative Engg., > Sr.Creative Engg., > Creative Lead > Creative Manager | 11yr(s) 5m(s) |
-| #2  | Astute            | Flash Animator                                                          | 1yr           |
-| #1  | Cyber web service | Trainee Designer                                                        | 3m(s)         |
+| #2  | Infosys Equinox   | Creative Manager > Architect                                            | 3yrs+         |
+| #1  | Skava an Infosys  | Creative Engg., > Sr.Creative Engg., > Creative Lead > Creative Manager | 11yr(s) 5m(s) |
 
 <hr />
 
@@ -89,6 +83,7 @@ Overall Experience: **<b>14 years</b>** | Total Companies: **<b>4</b>**
 
 # Awards & Recognition
 
+- **MVP(Most Valueable Player) for Best performance 2024** (from Vishy, Platform Enggineering VP, Infosys Equinox)
 - **Multiple Star Award for Best performance of the year (2011, 2013, 2015)** ( CEOs: Sudha & Arish, VPs: Kavitha, Murali Krishna)
 - **Founder Award (2015 - 2016)**: SASS Library (ADZE) (former CEO Sudha, Skava an Infosys)
 - **Founder Award (2016 - 2017)**: Photoshop to HTML automation library (former CEO Arish, Skava an Infosys)
